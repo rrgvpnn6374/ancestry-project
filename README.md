@@ -46,5 +46,5 @@ By analyzing single nucleotide polymorphisms (SNPs), I successfully identified d
 
 &nbsp;  ```bash
 
-&nbsp;  git clone \[https://github.com/YOUR\_USERNAME/ancestry-project.git](https://github.com/YOUR\_USERNAME/ancestry-project.git)
+&nbsp;  git clone \[https://github.com/rrgvpnn6374/ancestry-project.git](https://github.com/rrgvpnn6374/ancestry-project.git)
 
